@@ -1,0 +1,13 @@
+.new-movie-card {
+  font-size: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: gold;
+  border: 2px solid white;
+  width: 200px;
+  height: 250px;
+  position: relative;
+  margin: 10px;
+  flex-direction: column;
+}

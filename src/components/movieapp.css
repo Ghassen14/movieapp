@@ -1,0 +1,11 @@
+.movie-app {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}

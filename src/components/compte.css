@@ -1,0 +1,27 @@
+.compte-style {
+  display: flex;
+  justify-content: end;
+  margin-top: 50px;
+}
+.text-filter {
+  max-width: 150px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.btncompte {
+  background-color: darkred;
+}
+.partcompteone {
+  color: darkred;
+  border: darkred;
+  border-style: solid;
+  margin-right: 5px;
+  padding: 10px;
+}
+.partcomptetwo {
+  color: darkred;
+  border: darkred;
+  border-style: solid;
+  margin-left: 5px;
+  padding: 10px;
+}

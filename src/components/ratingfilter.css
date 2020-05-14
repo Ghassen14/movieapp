@@ -1,0 +1,11 @@
+.rating-filter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 10px;
+  justify-content: center;
+  color: gold;
+}
+.rating-filter-text {
+  font-size: 1em;
+}
